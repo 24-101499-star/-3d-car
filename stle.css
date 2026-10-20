@@ -1782,7 +1782,7 @@ margin: 0;}
     flex-shrink: 0;
     rotate: 90deg;
 
-    /* margin-left: 15px; */
+  
   }
  
  
@@ -1897,35 +1897,9 @@ margin: 0;}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 1280px) {
  
-  /* ---------- Header ---------- */
+
   header {
     padding: 0 clamp(20px, 4vw, 40px);
   }
@@ -1949,7 +1923,7 @@ margin: 0;}
   }
  
  
-  /* ---------- Hero ---------- */
+
   .hero-title {
     padding: 0 20px;
     box-sizing: border-box;
@@ -1972,7 +1946,7 @@ margin: 0;}
   }
  
  
-  /* ---------- Section 2: car sliding over the overlay ---------- */
+
   .sec-2 {
     height: 54vw;
   }
@@ -2335,7 +2309,7 @@ margin: 0;}
   }
  
  
-  /* ---------- Section 6: stacked heading, narrower cards ---------- */
+
   .s-6 {
     margin-top: 40px;
   }
@@ -2366,7 +2340,7 @@ margin: 0;}
     margin-top: 24px;
     gap: 20px;
     padding-left: 20px;
-    --step: 290px;          /* card 270px + gap 20px */
+    --step: 290px;          
   }
  
   .photo {
@@ -2382,7 +2356,7 @@ margin: 0;}
   }
  
  
-  /* ---------- Section 8: gallery stacks ---------- */
+
   .s-8 {
     padding: 24px;
     flex-direction: column;
